@@ -10,7 +10,6 @@ A Joomla! content plugin to display latest com_content articles from the same ca
 - Excluded the current active itemID Article.
 - Select category option to select on wich category the articles should be loaded.
 - Back to category button.
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=102)](https://opensource.org/licenses/GPL-2.0/)
 
 # System requirements
 Joomla 3.7 +                                                                                <br>
